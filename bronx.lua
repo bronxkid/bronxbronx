@@ -178,8 +178,8 @@ local Button = Tab:CreateButton({
 })
 local Button = Tab:CreateButton({
 	Name = "The Strongest Battlegrounds",
-	Callback - function()
+	Callback = function()
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/Emerson2-creator/Scripts-Roblox/refs/heads/main/XDevHubBeta.lua"))()
 	loadstring(game:HttpGet("https://pastebin.com/raw/DA4e9c8Y"))()
-	  end
+	end
 })
