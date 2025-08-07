@@ -183,3 +183,9 @@ local Button = Tab:CreateButton({
 	loadstring(game:HttpGet("https://pastebin.com/raw/DA4e9c8Y"))()
 	end
 })
+local Button = Tab:CreateButton({
+	Name = "Fruit Battlegrounds",
+	Callback = function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/KimSoiHub/For-Tester/refs/heads/main/Main"))()
+	end
+})
