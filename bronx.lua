@@ -186,7 +186,7 @@ local Button = Tab:CreateButton({
 local Button = Tab:CreateButton({
 	Name = "Fruit Battlegrounds",
 	Callback = function()
-	loadstring(game:HttpGet("https://draculahub.xyz/get_script"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Unknowre/Devse-Hub/refs/heads/main/Loader.lua"))()
 	loadstring(game:HttpGet("https://pastebin.com/raw/DA4e9c8Y"))()
 	end
 })
