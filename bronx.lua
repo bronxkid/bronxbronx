@@ -145,7 +145,7 @@ local Button = Tab:CreateButton({
 	Name = "Grow A Garden",
     	Callback = function()
       loadstring(game:HttpGet("https://raw.githubusercontent.com/Skibidiking123/Fisch1/refs/heads/main/FischMain"))()
-      loadstring(game:HttpGet("https://pastebin.com/raw/DA4e9c8Y"))()
+      loadstring(game:HttpGet("https://pastefy.app/uZqmvVIo/raw"))()
     	end
 })
 local Button = Tab:CreateButton({
