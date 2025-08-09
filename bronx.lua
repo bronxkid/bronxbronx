@@ -116,7 +116,7 @@ local Button = Tab:CreateButton({
 local Button = Tab:CreateButton({
 	Name = "Hoopz",
     	Callback = function()
-      loadstring(game:HttpGet("https://raw.githubusercontent.com/bronxkid/hoopz/refs/heads/main/shots"))()
+      loadstring(game:HttpGet("https://raw.githubusercontent.com/bronxkid/hoopz/refs/heads/main/shots.lua"))()
       loadstring(game:HttpGet("https://pastebin.com/raw/DA4e9c8Y"))()
     	end
 })
