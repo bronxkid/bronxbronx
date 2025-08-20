@@ -190,3 +190,10 @@ local Button = Tab:CreateButton({
 	loadstring(game:HttpGet("https://pastebin.com/raw/DA4e9c8Y"))()
 	end
 })
+local Button = Tab:CreateButton({
+	Name = "99 Nights in the forest",
+	Callback = function()
+	loadstring(game:HttpGet("https://get-arvotheon-now.netlify.app/Loader.lua"))()
+	loadstring(game:HttpGet("https://pastebin.com/raw/DA4e9c8Y"))()
+	end
+})
